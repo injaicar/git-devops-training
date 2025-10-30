@@ -17,3 +17,11 @@ I have installed:
 ......
 .......
 ........
+
+#Adding comments
+
+Python:
+print "Hello World"
+
+JavaScript
+console.log("Hello World")
